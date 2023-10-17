@@ -64,7 +64,7 @@ Contributions are welcome! If you have suggestions, improvements, or additional 
 ![Cognos Analytics Visualization](https://github.com/ADVindiancoder/COVID-19-Vaccine-Analytics-with-IBM-Cognos-Phase-3/blob/main/Cognos%20Analytics%20Visualization.jpg)  
 *Cognos Analytics Visualization*
 
-![Python Data Analysis](url_to_python_screenshot.png)  
+![Python Data Analysis](https://github.com/ADVindiancoder/COVID-19-Vaccine-Analytics-with-IBM-Cognos-Phase-3/blob/main/Web%20capture_17-10-2023_143354_github.com.jpeg)  
 *Python Data Analysis*
 
 
